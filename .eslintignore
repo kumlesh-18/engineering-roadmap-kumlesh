@@ -1,0 +1,15 @@
+.next/
+node_modules/
+dist/
+build/
+coverage/
+*.config.js
+*.config.ts
+*.d.ts
+*.md
+.pnpm-store/
+.vercel/
+.turbo/
+*.log
+.env*
+!.env.example
